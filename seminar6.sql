@@ -43,4 +43,3 @@ END $$
 
 DELIMITER $$
 SELECT format_seconds(123456);
-
